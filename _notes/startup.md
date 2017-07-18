@@ -8,5 +8,3 @@ https://segmentfault.com/a/1190000007265799
     $ cd startup
     $ npm install
     $ npm start
-
-·
